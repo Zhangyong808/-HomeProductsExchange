@@ -1,2 +1,26 @@
-# jph_web
-vue+vue-cli3.0 家具市场以及装修公司相关的web
+# jph-web
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
