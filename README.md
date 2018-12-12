@@ -1,4 +1,4 @@
-# jph-web
+# Home products exchange
 
 ## Project setup
 ```
